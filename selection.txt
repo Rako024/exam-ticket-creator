@@ -1,0 +1,315 @@
+BILET - 1
+12.	HTML – də düymələr (button, submit).
+20.	HTML – də siyahılar( ul li, select option).
+35.	CSS - də fon.
+47.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+63.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 2
+10.	HTML-də rənglər və şəkillərlə iş.
+26.	HTML – də cədvəl sütunlarının idarə edilməsi.
+32.	HTML – də iç-içə daxil olan siyahılar 
+42.	HTML- də cədvəllərin əsas atributları.
+65.	3 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 3
+2.	İnternetin informasiya servisləri
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+34.	Təsvirin HTML fayla daxil edilməsi.
+52.	HTML – formalar ( name, type,submit).
+59.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 4
+10.	HTML-də rənglər və şəkillərlə iş.
+19.	CSS – də mətnlərin rənglənməsi( color).
+30.	edilməsi
+42.	HTML- də cədvəllərin əsas atributları.
+63.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 5
+13.	CSS – də mətnin formatlaşdırılması.
+18.	HTML – də paraqraflar
+32.	HTML – də iç-içə daxil olan siyahılar 
+41.	CSS-in  HTML- də style teqinin daxilində verilməsi.
+62.	2 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 6
+11.	CSS – də mətnin nizamlanması.
+24.	HTML – də fonun tərtibi.
+27.	HTML – də siyahılar( ul li, select option).
+42.	HTML- də cədvəllərin əsas atributları.
+61.	4 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 7
+13.	CSS – də mətnin formatlaşdırılması.
+19.	CSS – də mətnlərin rənglənməsi( color).
+33.	HTML rənglər və şəkillərlə iş.
+49.	HTML – də nömrələnməmiş  və nömrələnmiş siyahılar (Unnumbered list, Ordered list).
+53.	CSS – in xassələri.
+
+
+
+BILET - 8
+1.	Müasir Veb Texnologiyaların İmkanları və  Problemləri Haqqında
+14.	HTML – də cədvəllərlə iş.
+35.	CSS - də fon.
+46.	HTML – də düymələr (button, submit).
+56.	Web səhifədə yerləşən şəklin ölçülərinin 200x350 piksel və şəkilin səhifənin mərkəzində yerləşməsi üçün HTML-də proqram fraqmentini yazın.
+
+
+
+BILET - 9
+3.	Veb-in funksiyaları nədən ibarətdir?
+23.	CSS – də border-style.
+39.	HTML – formalar ( name, type, submit).
+41.	CSS-in  HTML- də style teqinin daxilində verilməsi.
+64.	4 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 10
+9.	CSS haqqında ümumi məlumat.
+15.	HTML – də başlıqlar və altbaşlıqlar.
+37.	HTML – də sadə cədvəllərin strukturu.
+48.	CSS – də mətnlərin rənglənməsi ( color).
+59.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 11
+3.	Veb-in funksiyaları nədən ibarətdir?
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+28.	CSS - də siyahının formatlaşdırılması.
+46.	HTML – də düymələr (button, submit).
+53.	CSS – in xassələri.
+
+
+
+BILET - 12
+1.	Müasir Veb Texnologiyaların İmkanları və  Problemləri Haqqında
+22.	HTML – də şiriftlərin idarə edilməsi.
+31.	HTML – də paraqraflar.
+51.	CSS – də şriftə kölgə effektinin verilməsi (boxshadow).
+60.	4 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 13
+13.	CSS – də mətnin formatlaşdırılması.
+24.	HTML – də fonun tərtibi.
+27.	HTML – də siyahılar( ul li, select option).
+48.	CSS – də mətnlərin rənglənməsi ( color).
+53.	CSS – in xassələri.
+
+
+
+BILET - 14
+1.	Müasir Veb Texnologiyaların İmkanları və  Problemləri Haqqında
+25.	CSS haqqında ümumi məlumat.
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+56.	Web səhifədə yerləşən şəklin ölçülərinin 200x350 piksel və şəkilin səhifənin mərkəzində yerləşməsi üçün HTML-də proqram fraqmentini yazın.
+
+
+
+BILET - 15
+5.	Veb texnologiyalarının baza standartları
+24.	HTML – də fonun tərtibi.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+49.	HTML – də nömrələnməmiş  və nömrələnmiş siyahılar (Unnumbered list, Ordered list).
+55.	CSS – in HTML kodlarına birləşdirilməsi üsulları.
+
+
+
+BILET - 16
+1.	Müasir Veb Texnologiyaların İmkanları və  Problemləri Haqqında
+17.	CSS-in  HTML faylında style teqinin daxilində verilməsi.
+27.	HTML – də siyahılar( ul li, select option).
+44.	CSS – də en və hündürlüyün xassələri( width, height, text-align,justify, left, right, center )
+59.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 17
+3.	Veb-in funksiyaları nədən ibarətdir?
+22.	HTML – də şiriftlərin idarə edilməsi.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+44.	CSS – də en və hündürlüyün xassələri( width, height, text-align,justify, left, right, center )
+57.	3 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və             html faylını yaradın.
+
+
+
+BILET - 18
+4.	Veb-in informasiya resursları
+22.	HTML – də şiriftlərin idarə edilməsi.
+27.	HTML – də siyahılar( ul li, select option).
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+60.	4 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 19
+13.	CSS – də mətnin formatlaşdırılması.
+17.	CSS-in  HTML faylında style teqinin daxilində verilməsi.
+37.	HTML – də sadə cədvəllərin strukturu.
+45.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+64.	4 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 20
+3.	Veb-in funksiyaları nədən ibarətdir?
+22.	HTML – də şiriftlərin idarə edilməsi.
+37.	HTML – də sadə cədvəllərin strukturu.
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+63.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 21
+3.	Veb-in funksiyaları nədən ibarətdir?
+21.	CSS – də mətnin şriftinin dəyişdirilməsi.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+42.	HTML- də cədvəllərin əsas atributları.
+64.	4 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 22
+7.	Yeni Veb texnologiyaları
+22.	HTML – də şiriftlərin idarə edilməsi.
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+47.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+60.	4 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 23
+2.	İnternetin informasiya servisləri
+21.	CSS – də mətnin şriftinin dəyişdirilməsi.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+49.	HTML – də nömrələnməmiş  və nömrələnmiş siyahılar (Unnumbered list, Ordered list).
+58.	2 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın
+
+
+
+BILET - 24
+7.	Yeni Veb texnologiyaları
+17.	CSS-in  HTML faylında style teqinin daxilində verilməsi.
+39.	HTML – formalar ( name, type, submit).
+42.	HTML- də cədvəllərin əsas atributları.
+54.	HTML – də siyahılar ( ul ,li, select ,option).
+
+
+
+BILET - 25
+6.	Veb informasiya resurslarına müraciət
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+55.	CSS – in HTML kodlarına birləşdirilməsi üsulları.
+
+
+
+BILET - 26
+7.	Yeni Veb texnologiyaları
+18.	HTML – də paraqraflar
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+40.	HTML – də cədvəllərin yaradılması (tr,td …).
+60.	4 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 27
+2.	İnternetin informasiya servisləri
+21.	CSS – də mətnin şriftinin dəyişdirilməsi.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+55.	CSS – in HTML kodlarına birləşdirilməsi üsulları.
+
+
+
+BILET - 28
+9.	CSS haqqında ümumi məlumat.
+18.	HTML – də paraqraflar
+34.	Təsvirin HTML fayla daxil edilməsi.
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+62.	2 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 29
+3.	Veb-in funksiyaları nədən ibarətdir?
+18.	HTML – də paraqraflar
+34.	Təsvirin HTML fayla daxil edilməsi.
+42.	HTML- də cədvəllərin əsas atributları.
+62.	2 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 30
+12.	HTML – də düymələr (button, submit).
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+45.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+53.	CSS – in xassələri.
+
+
+
+BILET - 31
+10.	HTML-də rənglər və şəkillərlə iş.
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+41.	CSS-in  HTML- də style teqinin daxilində verilməsi.
+58.	2 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın
+
+
+
+BILET - 32
+3.	Veb-in funksiyaları nədən ibarətdir?
+23.	CSS – də border-style.
+34.	Təsvirin HTML fayla daxil edilməsi.
+48.	CSS – də mətnlərin rənglənməsi ( color).
+62.	2 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 33
+6.	Veb informasiya resurslarına müraciət
+15.	HTML – də başlıqlar və altbaşlıqlar.
+31.	HTML – də paraqraflar.
+44.	CSS – də en və hündürlüyün xassələri( width, height, text-align,justify, left, right, center )
+63.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 34
+12.	HTML – də düymələr (button, submit).
+25.	CSS haqqında ümumi məlumat.
+38.	CSS – də mətnlərin rənglənməsi( color).
+44.	CSS – də en və hündürlüyün xassələri( width, height, text-align,justify, left, right, center )
+61.	4 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+
+
+
+BILET - 35
+5.	Veb texnologiyalarının baza standartları
+22.	HTML – də şiriftlərin idarə edilməsi.
+35.	CSS - də fon.
+51.	CSS – də şriftə kölgə effektinin verilməsi (boxshadow).
+53.	CSS – in xassələri.
+
+
+

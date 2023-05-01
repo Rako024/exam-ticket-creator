@@ -1,0 +1,67 @@
+1.	Müasir Veb Texnologiyaların İmkanları və  Problemləri Haqqında
+2.	İnternetin informasiya servisləri
+3.	Veb-in funksiyaları nədən ibarətdir?
+4.	Veb-in informasiya resursları
+5.	Veb texnologiyalarının baza standartları
+6.	Veb informasiya resurslarına müraciət
+7.	Yeni Veb texnologiyaları
+8.	HTML –də şəklin WWW – səhifədə əks olunması
+9.	CSS haqqında ümumi məlumat.
+10.	HTML-də rənglər və şəkillərlə iş.
+11.	CSS – də mətnin nizamlanması.
+12.	HTML – də düymələr (button, submit).
+13.	CSS – də mətnin formatlaşdırılması.
+14.	HTML – də cədvəllərlə iş.
+15.	HTML – də başlıqlar və altbaşlıqlar.
+16.	HTML – də nizamlama  teqləri (margin,padding). 
+17.	CSS-in  HTML faylında style teqinin daxilində verilməsi.
+18.	HTML – də paraqraflar
+19.	CSS – də mətnlərin rənglənməsi( color).
+20.	HTML – də siyahılar( ul li, select option).
+21.	CSS – də mətnin şriftinin dəyişdirilməsi.
+22.	HTML – də şiriftlərin idarə edilməsi.
+23.	CSS – də border-style.
+24.	HTML – də fonun tərtibi.
+25.	CSS haqqında ümumi məlumat.
+26.	HTML – də cədvəl sütunlarının idarə edilməsi.
+27.	HTML – də siyahılar( ul li, select option).
+28.	CSS - də siyahının formatlaşdırılması.
+29.	HTML - də cədvəl sütunlarının idarə edilməsi.
+30.	edilməsi
+31.	HTML – də paraqraflar.
+32.	HTML – də iç-içə daxil olan siyahılar 
+33.	HTML rənglər və şəkillərlə iş.
+34.	Təsvirin HTML fayla daxil edilməsi.
+35.	CSS - də fon.
+36.	HTML - də cədvəllərin yaradılması (tr,td …).
+37.	HTML – də sadə cədvəllərin strukturu.
+38.	CSS – də mətnlərin rənglənməsi( color).
+39.	HTML – formalar ( name, type, submit).
+40.	HTML – də cədvəllərin yaradılması (tr,td …).
+41.	CSS-in  HTML- də style teqinin daxilində verilməsi.
+42.	HTML- də cədvəllərin əsas atributları.
+43.	HTML nədən başlayır?
+44.	CSS – də en və hündürlüyün xassələri( width, height, text-align,justify, left, right, center )
+45.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+46.	HTML – də düymələr (button, submit).
+47.	HTML – də cədvəlin xanalarının birləşdirilməsi.
+48.	CSS – də mətnlərin rənglənməsi ( color).
+49.	HTML – də nömrələnməmiş  və nömrələnmiş siyahılar (Unnumbered list, Ordered list).
+50.	HTML – də cədvəldə sətrlərin birləşdirilməsi (colspan, rowspan teqləri).
+51.	CSS – də şriftə kölgə effektinin verilməsi (boxshadow).
+52.	HTML – formalar ( name, type,submit).
+53.	CSS – in xassələri.
+54.	HTML – də siyahılar ( ul ,li, select ,option).
+55.	CSS – in HTML kodlarına birləşdirilməsi üsulları.
+56.	Web səhifədə yerləşən şəklin ölçülərinin 200x350 piksel və şəkilin səhifənin mərkəzində yerləşməsi üçün HTML-də proqram fraqmentini yazın.
+57.	3 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və             html faylını yaradın.
+58.	2 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın
+59.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+60.	4 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+61.	4 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+62.	2 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+63.	3 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+64.	4 sətirdən və 4 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+65.	3 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+66.	2 sətirdən və 2 sütundan ibarət cədvəl tərtib edin və html faylını yaradın.
+67.	3 sətirdən və 3 sütundan ibarət cədvəl tərtib edin və cədvələ fon verin .
